@@ -8,7 +8,7 @@
 
 <h2>安裝指南</h2>
 
-<p>需安裝 Tomcat 及下載 mysql-connector </p>
+<p>需安裝 Tomcat 及下載 mysql-connector 和 JSTL</p>
 
 <h2>使用範例</h2>
 
